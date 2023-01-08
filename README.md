@@ -16,7 +16,7 @@ I wanted to create a database with real world purpose. Specifically for business
 
 ## Successes
 
-I successed in creating a databse which meets my criteria in the description.
+I succeded in creating a databse which meets my criteria in the description.
 
 ## Author
 
